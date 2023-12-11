@@ -1,0 +1,55 @@
+﻿<Window x:Class="Exercici_15puzzle.WndGraellaJoc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Exercici_15puzzle"
+        mc:Ignorable="d"
+        Title="{Binding ElementName=tbTemps, Path=Text}" Name="wndGraellaJoc" Height="450" Width="800" Loaded="wndGraellaJoc_Loaded" PreviewKeyDown="wndGraellaJoc_PreviewKeyDown">
+    <DockPanel Name="dpJoc">
+        <StatusBar DockPanel.Dock="Top"
+                   Background="#834790"
+                   Style="{StaticResource ResourceKey= StatusBarStyle}">
+        <StatusBarItem Height="75" VerticalAlignment="Top">
+                <TextBlock Name="tbTitol"
+                           Text="15Puzzle"
+                            Style="{StaticResource ResourceKey=StatusBarStyle}"/>
+
+            </StatusBarItem>
+        <RibbonSeparator Foreground="#ffffff"/>
+        <StatusBarItem>
+                <TextBlock Name="tbTemps"
+                           Text="00:00:00"
+                           Style="{StaticResource ResourceKey=StatusBarStyle}" HorizontalAlignment="Center" Height="28"/>
+            </StatusBarItem>
+        <RibbonSeparator/>
+        <StatusBarItem>
+            <TextBlock Name="tbComptadorClic"
+                       Text="Completat = 00"
+                       Style="{StaticResource ResourceKey=StatusBarStyle}" HorizontalAlignment="Center" Height="28"/>
+
+            </StatusBarItem>
+        <RibbonSeparator/>
+        <StatusBarItem>
+            <Button Name="btnPausa"
+                        Content="Pausa"
+                        Style="{StaticResource ResourceKey=btn}"
+                        Click="btnPausa_Click">
+            </Button>
+        </StatusBarItem>
+        <RibbonSeparator/>
+        <StatusBarItem>
+            <Button Name="btnMusica"
+                        Content="Apaga música"
+                        Style="{StaticResource ResourceKey=btn}"
+                        Click="btnMusica_Click">
+            </Button>
+        </StatusBarItem>
+    </StatusBar>
+
+    <Grid Name="grdJoc">
+
+    </Grid>
+
+    </DockPanel>
+</Window>

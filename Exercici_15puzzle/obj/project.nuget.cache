@@ -1,0 +1,172 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxzZ+RC69/44tj/o0Mo7cnITKkXU/nIbklpIKxJY5iDXXLOUtcJmPC8qj88NlNdqjkPrDTqnVXvLPohJ3lxNgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiona\\OneDrive\\Escritorio\\Exercici_15puzzle\\Exercici_15puzzle\\Exercici_15puzzle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.engine\\13.0.4003\\crystalreports.engine.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.clientdoc\\13.0.4003\\crystalreports.reportappserver.clientdoc.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.commlayer\\13.0.4003\\crystalreports.reportappserver.commlayer.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.commoncontrols\\13.0.4003\\crystalreports.reportappserver.commoncontrols.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.commonobjectmodel\\13.0.4003\\crystalreports.reportappserver.commonobjectmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.controllers\\13.0.4003\\crystalreports.reportappserver.controllers.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.cubedefmodel\\13.0.4003\\crystalreports.reportappserver.cubedefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.datadefmodel\\13.0.4003\\crystalreports.reportappserver.datadefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.datasetconversion\\13.0.4003\\crystalreports.reportappserver.datasetconversion.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.objectfactory\\13.0.4003\\crystalreports.reportappserver.objectfactory.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.prompting\\13.0.4003\\crystalreports.reportappserver.prompting.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.reportdefmodel\\13.0.4003\\crystalreports.reportappserver.reportdefmodel.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.reportappserver.xmlserialize\\13.0.4003\\crystalreports.reportappserver.xmlserialize.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\crystalreports.shared\\13.0.4003\\crystalreports.shared.13.0.4003.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\fiona\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.Engine 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.Engine",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.ClientDoc 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.ClientDoc",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.CommLayer 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.CommLayer",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.CommonControls 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.CommonControls",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.CommonObjectModel 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.CommonObjectModel",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.Controllers 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.Controllers",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.CubeDefModel 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.CubeDefModel",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.DataDefModel 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.DataDefModel",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.DataSetConversion 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.DataSetConversion",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.ObjectFactory 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.ObjectFactory",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.Prompting 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.Prompting",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.ReportDefModel 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.ReportDefModel",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.ReportAppServer.XmlSerialize 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.ReportAppServer.XmlSerialize",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"CrystalReports.Shared 13.0.4003\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net7.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "CrystalReports.Shared",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}
